@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **everything :|**
 
-- 📫 How to reach me **Sakeruno#8394**
+- 📫 How to reach me (discord): **Sakeruno#8394**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
