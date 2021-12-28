@@ -1,8 +1,6 @@
 <h3 align="center">im a shitty developer</h3>
 
-- 🌱 I’m currently learning **everything :|**
-
-- 📫 How to reach me (discord): **Sakeruno#8394**
+g'day
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
