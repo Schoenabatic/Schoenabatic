@@ -1,5 +1,5 @@
 <h1 align="center">g'day im Schoenabatic</h1>
-<h3 align="center">A shitty programmrer</h3>
+<h3 align="center">A shitty programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
