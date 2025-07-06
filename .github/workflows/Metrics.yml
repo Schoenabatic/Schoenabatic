@@ -27,7 +27,7 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, cpp
 
           plugin_languages_skipped: >-
-            Backup
+            
 
           plugin_languages_colors: github
           plugin_languages_limit: 20
