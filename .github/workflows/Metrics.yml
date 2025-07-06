@@ -22,9 +22,7 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, python
           plugin_languages_skipped: >-
-            Backup, browsercord-extention, free-stickers, music-player-flutter, backups, imgui_testing,
-            dumps, spotify-thing, stuff, lua-stuff, FrameWarHEHEHE, utility-extention,
-            cambridge-ebook-to-pdf
+            Backup, 
           plugin_languages_colors: github
           plugin_languages_limit: 20
           plugin_languages_recent_categories: markup, programming
