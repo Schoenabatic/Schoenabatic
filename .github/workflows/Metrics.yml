@@ -24,7 +24,7 @@ jobs:
           plugin_languages_categories: markup, programming
 
           plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, cpp
 
           plugin_languages_skipped: >-
             Backup
